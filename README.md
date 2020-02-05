@@ -7,4 +7,4 @@ _Marcelo M. Rocha and Acir M. Loredo-Souza, PPGEC/UFRGS_ [(ORCID)](https://orcid
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmaiarocha/Tower/master)
 ___
 
-Please, click to access a... [Jupyter Notebook Viewer for Tower](http://nbviewer.jupyter.org/github/mmaiarocha/Tower/blob/master/Tower.ipynb?flush_cache=true)
+[Jupyter Notebook preview through NBViewer](http://nbviewer.jupyter.org/github/mmaiarocha/Tower/blob/master/Tower.ipynb?flush_cache=true)
