@@ -59,8 +59,8 @@ def profile(Z, Tav=3, Cat=2):
     if (Tav < 3) or (Tav > 3600):
         sys.exit('Averaging gust duration out of range.')
 
-    C1 = np.int(Cat//1 - 1)
-    C2 = np.int(C1 + 1)
+    C1 = int(Cat//1 - 1)
+    C2 = int(C1 + 1)
     
     b  = np.interp(Tav,Ti,bi[C1,:]) 
     p  = np.interp(Tav,Ti,pi[C1,:]) 
